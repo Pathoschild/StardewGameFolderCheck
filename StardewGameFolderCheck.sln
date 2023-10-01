@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StardewGameFolderCheck", "StardewGameFolderCheck\StardewGameFolderCheck.csproj", "{3B0D4E76-966F-4FE3-9B39-F4CB77FA081C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".root", ".root", "{3CDFDC03-A271-445D-A761-C1D10727D2D2}"
+	ProjectSection(SolutionItems) = preProject
+		docs\README.md = docs\README.md
+		docs\release-notes.md = docs\release-notes.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B0D4E76-966F-4FE3-9B39-F4CB77FA081C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0D4E76-966F-4FE3-9B39-F4CB77FA081C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0D4E76-966F-4FE3-9B39-F4CB77FA081C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0D4E76-966F-4FE3-9B39-F4CB77FA081C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1243438-22A5-4D28-A179-3A39B21963C6}
+	EndGlobalSection
+EndGlobal
